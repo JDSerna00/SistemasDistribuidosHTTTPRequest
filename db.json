@@ -1,1 +1,25 @@
-
+{
+  "users":[
+      {
+        "id":1,
+        "username":"JD",
+        "deck":[11,25,36,44,7]
+      },
+       {
+        "id":2,
+        "username":"Victorique",
+        "deck":[15,23,36,54,80]
+      },
+      {
+        "id":3,
+        "username":"DirtyOtaku",
+        "deck":[18,15,3,5,8]
+      }
+    ],
+  "cards":[
+    {
+      "id":1,
+      "class":"common"
+    }
+  ]
+}
